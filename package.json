@@ -7,5 +7,26 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.3",
     "redis": "^3.0.2"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "name": "rival-eye",
+  "description": "Under Construction",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Ap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyansh06/Rival-Eye.git"
+  },
+  "author": "Divyansh Sharma",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Divyansh06/Rival-Eye/issues"
+  },
+  "homepage": "https://github.com/Divyansh06/Rival-Eye#readme"
 }
